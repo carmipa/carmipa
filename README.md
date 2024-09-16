@@ -17,10 +17,10 @@ Além disso, tenho cidadania italiana e estou constantemente aprendendo novas ha
 ---
 
 ## 🎓 **Formação**
-
-- **Análise e Desenvolvimento de Sistemas** - [Nome da Instituição]
-- **Certificação Full Stack Developer** - [Nome da Instituição]
-- **Especialização em Inteligência Artificial** - [Nome da Instituição]
+- **Análise e Desenvolvimento de Sistemas com IA** - [FIAP-2025]
+- **Análise e Desenvolvimento de Sistemas** - [FIAP-2014]
+- **Bacharel em Direito - Advogado OAB/SP 371134** - [FMU-2009]
+- **Técnico em Processamento de Dados ** - [Cólégio Eniac-2000]
 
 ---
 
