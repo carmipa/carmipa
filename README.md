@@ -7,7 +7,7 @@
 
 ## 🚀 **Sobre Mim**
 
-Sou **desenvolvedor ** com um grande interesse em **tecnologias web** e **inteligência artificial**. Minha formação inclui **Análise e Desenvolvimento de Sistemas**, **Bacharel em Direito - Advogado**, **Técnico em Processamento de Daddos**, e tenho um foco constante em aprender e aplicar novas tecnologias para resolver problemas práticos. 
+Sou **desenvolvedor ** com um grande interesse em **tecnologias web** e **inteligência artificial**. Minha formação inclui **Análise e Desenvolvimento de Sistemas**, **Bacharel em Direito - Advogado**, **Técnico em Processamento de Dados**, e tenho um foco constante em aprender e aplicar novas tecnologias para resolver problemas práticos. 
 
 Além disso, tenho cidadania italiana e estou sempre em busca de novos desafios, especialmente aqueles que envolvem inovação e criatividade no mundo da programação.
 
