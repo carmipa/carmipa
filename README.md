@@ -31,11 +31,12 @@ Além disso, tenho cidadania italiana e estou constantemente aprendendo novas ha
   ![Python Badge](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+  ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
 
 - **Front-end**:  
   ![React Badge](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-  ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+  ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
 - **Back-end**:  
   ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -44,10 +45,12 @@ Além disso, tenho cidadania italiana e estou constantemente aprendendo novas ha
 - **Banco de Dados**:  
   ![Oracle Badge](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
   ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 - **Ferramentas**:  
   ![Git Badge](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![Docker Badge](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
+  ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
   ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 
 ---
