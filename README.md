@@ -2,14 +2,25 @@
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/carmipa)](https://github.com/carmipa)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pauloandrecarminati/)](https://www.linkedin.com/in/pauloandrecarminati/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pabcarminati)](https://instagram.com/pabcarminati)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@PauloAndreCarminati)](https://www.youtube.com/@PauloAndreCarminati)
+[![Steam Badge](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/id/PCAR_PC/)](https://steamcommunity.com/id/PCAR_PC/)
 
 ---
 
 ## 🚀 **Sobre Mim**
 
-Sou **desenvolvedor ** com um grande interesse em **tecnologias web** e **inteligência artificial**. Minha formação inclui **Análise e Desenvolvimento de Sistemas**, **Bacharel em Direito - Advogado**, **Técnico em Processamento de Dados**, e tenho um foco constante em aprender e aplicar novas tecnologias para resolver problemas práticos. 
+Sou **desenvolvedor full stack** com um grande interesse em **tecnologias web** e **inteligência artificial**. Minha formação inclui **Análise e Desenvolvimento de Sistemas**, e estou sempre em busca de novos desafios, especialmente aqueles que envolvem inovação e criatividade no mundo da programação.
 
-Além disso, tenho cidadania italiana e estou sempre em busca de novos desafios, especialmente aqueles que envolvem inovação e criatividade no mundo da programação.
+Além disso, tenho cidadania italiana e estou constantemente aprendendo novas habilidades técnicas para aprimorar meu trabalho e resolver problemas do mundo real com eficiência.
+
+---
+
+## 🎓 **Formação**
+
+- **Análise e Desenvolvimento de Sistemas** - [Nome da Instituição]
+- **Certificação Full Stack Developer** - [Nome da Instituição]
+- **Especialização em Inteligência Artificial** - [Nome da Instituição]
 
 ---
 
@@ -54,6 +65,18 @@ Desenvolvimento de uma plataforma para diagnóstico de falhas em veículos usand
 
 ### 🔹 [Projeto Oceanos Limpos](https://github.com/ArthurBispo00/Projeto_Oceanos_Limpos)  
 Aplicativo que visa a conscientização e soluções para a preservação dos oceanos, com foco em atividades de limpeza e educação ambiental.
+
+---
+
+## 🌐 **Meus Sites e Redes Sociais**
+
+- [Meu Portfólio](https://seuportfoliosite.com)
+- [LinkedIn](https://www.linkedin.com/in/pauloandrecarminati/)
+- [Instagram](https://instagram.com/pabcarminati)
+- [Twitter](https://twitter.com/seuusuario)
+- [Facebook](https://facebook.com/seuusuario)
+- [YouTube](https://www.youtube.com/@PauloAndreCarminati)
+- [Steam](https://steamcommunity.com/id/PCAR_PC/)
 
 ---
 
