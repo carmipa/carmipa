@@ -19,7 +19,6 @@ Além disso, tenho cidadania italiana e estou constantemente aprendendo novas ha
 ## 🎓 **Formação**
 - **Análise e Desenvolvimento de Sistemas com IA** - [FIAP-2025]
 - **Análise e Desenvolvimento de Sistemas** - [FIAP-2014]
-- **Pós Graduação - Direito e Informática**
 - **Bacharel em Direito - Advogado OAB/SP 371134** - [FMU-2009]
 - **Técnico em Processamento de Dados ** - [Cólégio Eniac-2000]
 
