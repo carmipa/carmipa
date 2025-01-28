@@ -38,10 +38,12 @@ Além disso, tenho cidadania italiana e estou constantemente aprendendo novas ha
   ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
   ![Python Badge](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+  ![Objective C Badge](https://img.shields.io/badge/Objective_C-438EFF?style=flat-square&logo=apple&logoColor=white) <!-- Adicionado Objective C -->
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+  ![XHTML Badge](https://img.shields.io/badge/XHTML-DE2710?style=flat-square&logo=html5&logoColor=white) <!-- Adicionado XHTML -->
 
 - **Front-end**:  
   ![React Badge](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -51,8 +53,8 @@ Além disso, tenho cidadania italiana e estou constantemente aprendendo novas ha
 - **Back-end**:  
   ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
   ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-  ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white)
   ![ASP.NET Badge](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=asp.net&logoColor=white) <!-- Adicionado ASP.NET -->
+  ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white)
 
 - **Banco de Dados**:  
   ![Oracle Badge](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
@@ -85,6 +87,14 @@ Além disso, tenho cidadania italiana e estou constantemente aprendendo novas ha
   ![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
   ![Azure Badge](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
   ![AWS Badge](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+- **Frameworks e Tecnologias**:  
+  - **JSF (JavaServer Faces)**
+  - **Servlets**
+  - **JPA (Java Persistence API)**
+  - **JSP (JavaServer Pages)**
+  - **Android**
+
 
 
 
