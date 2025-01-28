@@ -24,11 +24,24 @@ Além disso, tenho cidadania italiana e estou constantemente aprendendo novas ha
 ---
 
 ## 🎓 **Formação**
+
+### 📚 **Educação Acadêmica**
+- **Bacharel em Direito - Advogado OAB/SP 371134** - [FMU-2009]
+- **Pós Graduação - Direito e Informática** - [ESAOAB]
 - **Análise e Desenvolvimento de Sistemas com IA** - [FIAP-2025]
 - **Análise e Desenvolvimento de Sistemas** - [FIAP-2014]
-- **Pós Graduação - Direito e Informática** - [ESAOAB]
-- **Bacharel em Direito - Advogado OAB/SP 371134** - [FMU-2009]
 - **Técnico em Processamento de Dados** - [Cólégio Eniac-2000]
+
+### 🎓 **Certificações e Cursos Preparatórios**
+- **Cursos Preparatórios para Magistratura e Procuradorias**
+  - **Magistratura do Trabalho** - [Damasio]
+  - **Magistratura Federal** - [Enfase]
+
+
+> **Detalhes Adicionais:**
+> - **OAB/SP**: Registro profissional desde 2013.
+> - **Instituições**: Cursos preparatórios realizados nas instituições Damasio e Enfase, renomadas na preparação para concursos na área jurídica.
+> - **Foco dos Cursos**: Preparação para diversas carreiras no judiciário e no Ministério Público, incluindo magistratura trabalhista, estadual, federal, e funções em procuradorias.
 
 ---
 
@@ -149,6 +162,8 @@ Estou constantemente aprimorando minhas habilidades e, atualmente, focado em:
 - **Desenvolvimento de APIs RESTful** com Spring e Node.js
 - **Inteligência Artificial** aplicada ao desenvolvimento de soluções práticas
 - **DevOps e Docker** para ambientes automatizados
+- **C#(C-SHARP) .net** Formação Alura 2025
+- **React e Node.js** aplicada ao desenvolvimento de soluções práticas
 
 ---
 
@@ -162,7 +177,7 @@ Estou sempre aberto a **colaborações** em projetos interessantes, especialment
 
 - LinkedIn: [Paulo André Carminati](https://www.linkedin.com/in/pauloandrecarminati/)
 - GitHub: [carmipa](https://github.com/carmipa)
-- E-mail: **pauloandre.carminati@email.com**
+- E-mail: **pabcarminati@gmail.com**
 
 ---
 
