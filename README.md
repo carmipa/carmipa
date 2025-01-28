@@ -9,7 +9,7 @@
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/id/PCAR_PC/)](https://steamcommunity.com/id/PCAR_PC/)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-6441A5?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/pcar_pc)](https://www.twitch.tv/pcar_pc)
 [![X Badge](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white&link=https://x.com/pabcarminati)](https://x.com/pabcarminati)
-[![Discord Badge](https://img.shields.io/badge/Discord-PCAR%20CMD%20CARMINATI%239475-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/)
+[![Discord Badge](https://img.shields.io/badge/Discord-PCAR-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/)
 [![Blogger Família Carminati Badge](https://img.shields.io/badge/Blogger-Família%20Carminati-F57F00?style=flat-square&logo=blogger&logoColor=white&link=https://familiacarminati.blogspot.com/)](https://familiacarminati.blogspot.com/)
 [![Blogger Carmipa Badge](https://img.shields.io/badge/Blogger-Carmipa-F57F00?style=flat-square&logo=blogger&logoColor=white&link=https://carmipa.blogspot.com/)](https://carmipa.blogspot.com/)
 
