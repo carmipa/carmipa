@@ -46,17 +46,20 @@ Além disso, tenho cidadania italiana e estou constantemente aprendendo novas ha
 - **Front-end**:  
   ![React Badge](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
   ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+  ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) <!-- Adicionado Angular -->
 
 - **Back-end**:  
   ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
   ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
   ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white)
+  ![ASP.NET Badge](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=asp.net&logoColor=white) <!-- Adicionado ASP.NET -->
 
 - **Banco de Dados**:  
   ![Oracle Badge](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
   ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
   ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
   ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+  ![SQL Server Badge](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) <!-- Adicionado SQL Server -->
 
 - **Ferramentas**:  
   ![Git Badge](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -82,6 +85,7 @@ Além disso, tenho cidadania italiana e estou constantemente aprendendo novas ha
   ![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
   ![Azure Badge](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
   ![AWS Badge](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
 
 
 ## 📊 **Estatísticas do GitHub**
