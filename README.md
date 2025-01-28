@@ -38,22 +38,25 @@ Além disso, tenho cidadania italiana e estou constantemente aprendendo novas ha
   ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
   ![Python Badge](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-  ![Objective C Badge](https://img.shields.io/badge/Objective_C-438EFF?style=flat-square&logo=apple&logoColor=white) <!-- Adicionado Objective C -->
+  ![Objective C Badge](https://img.shields.io/badge/Objective_C-438EFF?style=flat-square&logo=apple&logoColor=white)
+  ![Visual Basic Badge](https://img.shields.io/badge/Visual_Basic-5C2D91?style=flat-square&logo=visual-basic&logoColor=white)
+  ![COBOL Badge](https://img.shields.io/badge/COBOL-000000?style=flat-square&logo=cobol&logoColor=white) <!-- Badge personalizado para COBOL -->
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-  ![XHTML Badge](https://img.shields.io/badge/XHTML-DE2710?style=flat-square&logo=html5&logoColor=white) <!-- Adicionado XHTML -->
+  ![XHTML Badge](https://img.shields.io/badge/XHTML-DE2710?style=flat-square&logo=html5&logoColor=white)
 
 - **Front-end**:  
   ![React Badge](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
   ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-  ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) <!-- Adicionado Angular -->
+  ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+  ![PrimeFaces Badge](https://img.shields.io/badge/PrimeFaces-000000?style=flat-square&logo=primefaces&logoColor=white) <!-- Badge personalizado para PrimeFaces -->
 
 - **Back-end**:  
   ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
   ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-  ![ASP.NET Badge](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=asp.net&logoColor=white) <!-- Adicionado ASP.NET -->
+  ![ASP.NET Badge](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=asp.net&logoColor=white)
   ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white)
 
 - **Banco de Dados**:  
@@ -61,8 +64,22 @@ Além disso, tenho cidadania italiana e estou constantemente aprendendo novas ha
   ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
   ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
   ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-  ![SQL Server Badge](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) <!-- Adicionado SQL Server -->
+  ![DB2 Badge](https://img.shields.io/badge/DB2-052E6B?style=flat-square&logo=ibm-db2&logoColor=white)
 
+- **Frameworks e Tecnologias**:  
+  - **JSF (JavaServer Faces)**
+  - **Servlets**
+  - **JPA (Java Persistence API)**
+  - **JSP (JavaServer Pages)**
+  - **Android SDK**
+  - **Java EE**
+  - **SOAP**
+  - **EJB (Enterprise JavaBeans)**
+  - **AJAX**
+
+- **Testes e Qualidade**:  
+  ![JUnit Badge](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+  
 - **Ferramentas**:  
   ![Git Badge](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![Docker Badge](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
@@ -87,13 +104,7 @@ Além disso, tenho cidadania italiana e estou constantemente aprendendo novas ha
   ![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
   ![Azure Badge](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
   ![AWS Badge](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-
-- **Frameworks e Tecnologias**:  
-  - **JSF (JavaServer Faces)**
-  - **Servlets**
-  - **JPA (Java Persistence API)**
-  - **JSP (JavaServer Pages)**
-  - **Android**
+  ![MS-DOS Badge](https://img.shields.io/badge/MS-DOS-000000?style=flat-square&logo=ms-dos&logoColor=white) <!-- Badge personalizado para MS-DOS -->
 
 
 
