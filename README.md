@@ -17,9 +17,11 @@
 
 ## 🚀 **Sobre Mim**
 
-Sou **desenvolvedor full stack** com um grande interesse em **tecnologias web** e **inteligência artificial**. Minha formação inclui **Análise e Desenvolvimento de Sistemas**, e estou sempre em busca de novos desafios, especialmente aqueles que envolvem inovação e criatividade no mundo da programação.
+Sou desenvolvedor full stack com grande interesse em tecnologias web e inteligência artificial. Minha formação inclui Análise e Desenvolvimento de Sistemas e Direito, e estou sempre em busca de novos desafios, especialmente aqueles que envolvem inovação e criatividade no mundo da programação.
 
 Além disso, tenho cidadania italiana e estou constantemente aprendendo novas habilidades técnicas para aprimorar meu trabalho e resolver problemas do mundo real com eficiência.
+
+Tenho como hobbies Games, plastimodelismo Gundam (Gunpla), e estudos e leituras em Direito, Filosofia, História, Política e Teologia.
 
 ---
 
