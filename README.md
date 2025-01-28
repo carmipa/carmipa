@@ -77,6 +77,12 @@ Além disso, tenho cidadania italiana e estou constantemente aprendendo novas ha
   - **EJB (Enterprise JavaBeans)**
   - **AJAX**
 
+- **Sistemas Operacionais**:  
+  ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)  
+  ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
+  **Versões do Windows:**  
+  Windows 95, Windows 98, Windows ME, Windows 2000, Windows XP, Windows Vista, Windows 7, Windows 8, Windows 10, Windows 11
+
 - **Testes e Qualidade**:  
   ![JUnit Badge](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
   
