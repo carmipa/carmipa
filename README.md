@@ -1,10 +1,15 @@
 # 👋 **Paulo André Carminati**
 
+## 🔗 **Redes Sociais**
+
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/carmipa)](https://github.com/carmipa)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pauloandrecarminati/)](https://www.linkedin.com/in/pauloandrecarminati/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pauloandrecarminati/)](https://www.linkedin.com/in/pauloandrecarminati/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pabcarminati)](https://instagram.com/pabcarminati)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@PauloAndreCarminati)](https://www.youtube.com/@PauloAndreCarminati)
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/id/PCAR_PC/)](https://steamcommunity.com/id/PCAR_PC/)
+[![Twitch Badge](https://img.shields.io/badge/-Twitch-6441A5?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/pcar_pc)](https://www.twitch.tv/pcar_pc)
+[![X Badge](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white&link=https://x.com/pabcarminati)](https://x.com/pabcarminati)
+[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white&link=YOUR_DISCORD_LINK)](YOUR_DISCORD_LINK)
 
 ---
 
