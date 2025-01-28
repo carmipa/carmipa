@@ -30,6 +30,7 @@ Além disso, tenho cidadania italiana e estou constantemente aprendendo novas ha
 - **Linguagens**:  
   ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
   ![Python Badge](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -42,19 +43,23 @@ Além disso, tenho cidadania italiana e estou constantemente aprendendo novas ha
 - **Back-end**:  
   ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
   ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+  ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white)
 
 - **Banco de Dados**:  
   ![Oracle Badge](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
   ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
   ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 - **Ferramentas**:  
   ![Git Badge](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![Docker Badge](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
   ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
   ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
+  ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+  ![Azure Badge](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+  ![AWS Badge](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
----
 
 ## 📊 **Estatísticas do GitHub**
 
