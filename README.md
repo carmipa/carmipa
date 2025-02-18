@@ -124,6 +124,10 @@ Tenho como hobbies Games, plastimodelismo Gundam (Gunpla), e estudos e leituras 
   - Emitido em ago de 2024
   - **Código da Credencial:** `da168cafd1850b53087eeb86becc6036` [🔗 Exibir Credencial](https://on.fiap.com.br/validar-certificado/)
   - 🏅 **Competências:** Java
+- **Certificado de Qualificação Profissional em Análise de Sistemas e Prototipação Web**
+  - Emitido em julho de 2024
+- **Certificado de Qualificação Profissional em Desenvolvimento e Designer Web 2.0**
+  - Emitido em dezembro de 2024
 
 ---
 
