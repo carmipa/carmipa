@@ -31,8 +31,8 @@ Tenho como hobbies Games, plastimodelismo Gundam (Gunpla), e estudos e leituras 
 - **Técnico em Processamento de Dados** - [Cólégio Eniac-2000]
 - **Bacharel em Direito - Advogado OAB/SP 371134** - [FMU-2009]
 - **Pós Graduação - Direito e Informática** - [ESAOAB]
-- **Análise e Desenvolvimento de Sistemas com IA** - [FIAP-2025]
 - **Análise e Desenvolvimento de Sistemas** - [FIAP-2014]
+- - **Análise e Desenvolvimento de Sistemas com IA** - [FIAP-2025]
 
 ### 🎓 **Certificações e Cursos Preparatórios**
 - **Cursos Preparatórios para Magistratura e Procuradorias**
