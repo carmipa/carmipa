@@ -34,10 +34,74 @@ Tenho como hobbies Games, plastimodelismo Gundam (Gunpla), e estudos e leituras 
 - **Análise e Desenvolvimento de Sistemas** - [FIAP-2014]
 - - **Análise e Desenvolvimento de Sistemas com IA** - [FIAP-2025]
 
-### 🎓 **Certificações e Cursos Preparatórios**
-- **Cursos Preparatórios para Magistratura e Procuradorias**
-  - **Magistratura do Trabalho** - [Damasio]
-  - **Magistratura Federal** - [Enfase]
+# 🎓 **Certificações e Cursos Preparatórios**
+
+## 📚 **Cursos Preparatórios para Magistratura e Procuradorias**
+- **Magistratura do Trabalho** - [Damasio]
+- **Magistratura Federal** - [Ênfase]
+
+## 🏆 **Licenças e Certificados**
+
+### 📜 **Certificados de Reconhecimento de Trabalho Voluntário**
+- **ACM/YMCA São Paulo - Brasil**
+  - Emitido em nov de 2024 · Expira em nov de 2025
+  - ![Certificado](IMG_20241129_101839399.jpg)
+
+---
+
+### 🎓 **Formações e Cursos Técnicos**
+
+#### **Alura**
+- **Formação Aprenda a Programar em Python com Orientação a Objetos**
+  - Emitido em ago de 2024
+  - **Código da Credencial:** `a442e86b-9a3e-411c-9207-0fd08f54b27a` [🔗 Exibir Credencial](#)
+- **Formação Aprenda a Programar em Java com Orientação a Objetos**
+  - Emitido em jul de 2024
+  - **Código da Credencial:** `8aad20ec-9a97-455a-899d-c03a10956c24` [🔗 Exibir Credencial](#)
+- **Java: Consumindo API, Gravando Arquivos e Lidando com Erros**
+  - Emitido em jul de 2024
+  - **Código da Credencial:** `135bf764-4f8f-46c9-8a10-344203045826` [🔗 Exibir Credencial](#)
+- **Java: Trabalhando com Lambdas, Streams e Spring Framework**
+  - Emitido em jul de 2024
+  - **Código da Credencial:** `34e67cff-0c73-402b-8e07-f463a6adec10` [🔗 Exibir Credencial](#)
+- **Lógica de Programação: Praticando com Desafios**
+  - Emitido em jul de 2024
+  - **Código da Credencial:** `90b6250d-1f88-4b18-a90a-ff5a94dd2c1e` [🔗 Exibir Credencial](#)
+- **Python: Aplicando a Orientação a Objetos**
+  - Emitido em jul de 2024
+  - **Código da Credencial:** `dd517e05-ad2a-4bb3-883d-4cdfc9541e0c` [🔗 Exibir Credencial](#)
+- **Terminal: Aprenda Comandos para Executar Tarefas**
+  - Emitido em jul de 2024
+  - **Código da Credencial:** `30f44f71-062a-42dd-aee1-86cd3a8bf892` [🔗 Exibir Credencial](#)
+- **Windows Prompt: Utilizando o CMD/WSL**
+  - Emitido em jul de 2024
+  - **Código da Credencial:** `321ad23f-9619-4d79-b1cb-f277bf5e060d` [🔗 Exibir Credencial](#)
+- **Git e GitHub: Compartilhando e Colaborando em Projetos**
+  - Emitido em jun de 2024
+  - **Código da Credencial:** `87a1a2d2-501b-4f3d-a62e-0b6fdb5fedb4` [🔗 Exibir Credencial](#)
+- **Python: Crie a sua Primeira Aplicação**
+  - Emitido em jun de 2024
+  - **Código da Credencial:** `ead35772-ecca-4b91-8fc1-95234e955cfa` [🔗 Exibir Credencial](#)
+
+#### **FIAP**
+- **Nano Course - Java Development**
+  - Emitido em ago de 2024
+  - **Código da Credencial:** `da168cafd1850b53087eeb86becc6036` [🔗 Exibir Credencial](#)
+  - 🏅 **Competências:** Java
+
+#### **Alura**
+- **JavaScript e HTML: Desenvolva um Jogo e Pratique Lógica de Programação**
+  - Emitido em fev de 2024
+  - **Código da Credencial:** `b903f878-ce90-4c60-853a-d482222484e5` [🔗 Exibir Credencial](#)
+- **JavaScript e HTML: Pratique Lógica com Desenhos, Animações e um Jogo**
+  - Emitido em fev de 2024
+  - **Código da Credencial:** `1ff821a9-d591-4d5d-bfa1-e4313f94467c` [🔗 Exibir Credencial](#)
+- **React: Comece seu Projeto Full Stack**
+  - [🔗 Exibir Credencial](#)
+
+---
+
+📌 *Este repositório lista certificações e cursos concluídos. Para mais informações, entre em contato!*
 
 
 > **Detalhes Adicionais:**
