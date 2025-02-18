@@ -89,8 +89,18 @@ Tenho como hobbies Games, plastimodelismo Gundam (Gunpla), e estudos e leituras 
   - Emitido em fev de 2024
   - **Código da Credencial:** `1ff821a9-d591-4d5d-bfa1-e4313f94467c` [🔗 Exibir Credencial](https://cursos.alura.com.br/certificate/1ff821a9-d591-4d5d-bfa1-e4313f94467c?lang)
 - **React: Comece seu Projeto Full Stack**
-  - [🔗 Exibir Credencial](https://cursos.alura.com.br/formalCertificate/61b753ba-b1a6-44e8-ad5e-8d88a1c5526c)
-  - - **Lógica de programação: mergulhe em programação com JavaScript**
+  - Emitido em janeiro de 2025
+  - **Código da Credencial:** `61b753ba-b1a6-44e8-ad5e-8d88a1c5526c` [🔗 Exibir Credencial](https://cursos.alura.com.br/formalCertificate/61b753ba-b1a6-44e8-ad5e-8d88a1c5526c)
+- **C#: aplicando a Orientação a Objetos**
+  - Emitido em fevereiro de 2025
+  - **Código da Credencial:** `6cc68371-0b30-4283-be2a-819e894b185b` [🔗 Exibir Credencial](https://cursos.alura.com.br/certificate/6cc68371-0b30-4283-be2a-819e894b185b)
+- **C#: criando sua primeira aplicação**
+  - Emitido em janeiro de 2025
+  - **Código da Credencial:** `4a74d1e4-0d62-4563-9c66-94f3e291658b` [🔗 Exibir Credencial](https://cursos.alura.com.br/certificate/4a74d1e4-0d62-4563-9c66-94f3e291658b)
+- **C#: dominando Orientação a Objetos**
+  - Emitido em fevereiro de 2025
+  - **Código da Credencial:** `8a5c942d-95c6-407e-b8f3-c19479d3becb` [🔗 Exibir Credencial](https://cursos.alura.com.br/certificate/8a5c942d-95c6-407e-b8f3-c19479d3becb)
+- **Lógica de programação: mergulhe em programação com JavaScript**
   - Emitido em maio de 2024
   - **Código da Credencial:** `604241be-6297-4b3d-a1cd-e26fc048fc47` [🔗 Exibir Credencial](https://cursos.alura.com.br/certificate/604241be-6297-4b3d-a1cd-e26fc048fc47?lang)
 - **Java OO: entendendo a Orientação a Objetos**
@@ -102,10 +112,10 @@ Tenho como hobbies Games, plastimodelismo Gundam (Gunpla), e estudos e leituras 
 - **Python: começando com a linguagem**
   - Emitido em abril de 2024
   - **Código da Credencial:** `b0e14c63-f553-4e95-b411-a3b6c375ba9f` [🔗 Exibir Credencial](https://cursos.alura.com.br/certificate/b0e14c63-f553-4e95-b411-a3b6c375ba9f?lang)
-**Java: aplicando a Orientação a Objetos**
+- **Java: aplicando a Orientação a Objetos**
   - Emitido em abril de 2024
   - **Código da Credencial:** `f6aacdf5-e2e6-4abd-908e-85217f659e34` [🔗 Exibir Credencial](https://cursos.alura.com.br/certificate/f6aacdf5-e2e6-4abd-908e-85217f659e34?lang)
--  **Java: criando a sua primeira aplicação**
+- **Java: criando a sua primeira aplicação**
   - Emitido em abril de 2024
   - **Código da Credencial:** `6afca58d-43f0-448b-b038-80b0b3c08000` [🔗 Exibir Credencial](https://cursos.alura.com.br/certificate/6afca58d-43f0-448b-b038-80b0b3c08000?lang)
 
